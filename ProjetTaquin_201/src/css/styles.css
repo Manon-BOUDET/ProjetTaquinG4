@@ -1,0 +1,25 @@
+.pane {
+    -fx-background-color: #A9A9A9;
+    -fx-border-color: black;
+}
+
+.gridpane {
+     -fx-border-color: black;
+     -fx-grid-lines-visible: true;
+     -fx-halignment: center;
+     -fx-alignment: CENTER;
+     
+}
+
+.tuile {
+    -fx-text-fill: #8B0000;
+    -fx-font-size: 32;
+    -fx-padding: 26 40 26 40;
+
+}
+
+.boutonaide {
+    -fx-background-color: #A9A9A9;
+    
+
+}
